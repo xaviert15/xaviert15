@@ -14,7 +14,10 @@ currently on Erasmus+ at Universidad Complutense de Madrid, focusing on deep lea
 |---|---|---|
 | [**MCTS-ID3-PopOut**](https://github.com/davidampereira/MCTS-ID3-PopOut) | PopOut (Connect-4 variant) engine; MCTS with UCT and non-standard variants benchmarked statistically; ID3 written from scratch to imitate MCTS. Grade 19.3/20 | Python, Jupyter |
 | [**Fuzzy-SVM-vs-Noise-and-Outliers**](https://github.com/davidampereira/Fuzzy-SVM-vs-Noise-and-Outliers) | Standard and Fuzzy SVM from scratch (no scikit-learn); membership functions compared on noisy data. Grade 17.7/20 | Python, NumPy |
+| [**DisneyPlusDB**](https://github.com/xaviert15/DisneyPlusDB) | Disney+ catalogue database: ER model, ETL into SQLite, analytical SQL queries and a Flask web app. Grade 20/20 | SQL, SQLite, Python, Flask |
 | [**Jungle-Chess**](https://github.com/xaviert15/Jungle-Chess) | Dou Shou Qi board game with Minimax & Negamax AI, MVC architecture. Grade 20/20 | Python, Pygame |
+
+🔒 **Futsal Performance Hub** (private, personal project): a PWA that turns my fitness-band data into daily readiness scores and AI coaching insights · Next.js, TypeScript, Supabase, LLM APIs
 
 ### 🔧 Tech
 **Languages:** Python · C · Java · SQL · R · TypeScript<br>
