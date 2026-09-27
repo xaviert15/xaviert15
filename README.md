@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Xavier 👋
 
-<!--
-**xaviert15/xaviert15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year **Artificial Intelligence & Data Science** student at the University of Porto (FCUP) · GPA 17.7/20,
+currently on Erasmus+ at Universidad Complutense de Madrid, focusing on deep learning.
 
-Here are some ideas to get you started:
+🎯 **Looking for a curricular ML internship (spring 2027)**: building and evaluating models on large-scale, real-world data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏅 4th-highest GPA across all three years of the BSc (FCUP Awards 2025) · Gulbenkian Merit Scholarship holder
+- 🧠 I like building ML from first principles and validating it statistically
+- ⚽ High-performance futsal player: Portuguese national university team, debuted in Liga Placard (top division)
+
+### 📌 Selected projects
+| Project | What | Stack |
+|---|---|---|
+| [**MCTS-ID3-PopOut**](https://github.com/davidampereira/MCTS-ID3-PopOut) | PopOut (Connect-4 variant) engine; MCTS with UCT and non-standard variants benchmarked statistically; ID3 written from scratch to imitate MCTS. Grade 19.3/20 | Python, Jupyter |
+| [**Fuzzy-SVM-vs-Noise-and-Outliers**](https://github.com/davidampereira/Fuzzy-SVM-vs-Noise-and-Outliers) | Standard and Fuzzy SVM from scratch (no scikit-learn); membership functions compared on noisy data. Grade 17.7/20 | Python, NumPy |
+| [**Jungle-Chess**](https://github.com/xaviert15/Jungle-Chess) | Dou Shou Qi board game with Minimax & Negamax AI, MVC architecture. Grade 20/20 | Python, Pygame |
+
+### 🔧 Tech
+**Languages:** Python · C · Java · SQL · R · TypeScript<br>
+**ML & Data:** NumPy · pandas · scikit-learn · PyTorch · TensorFlow · Jupyter<br>
+**BI & Tools:** Power BI · Tableau · Git · Next.js
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/xavier-teixeira15/) · xavier.teixeira3@gmail.com
+
+<sub>Team projects are hosted on teammates' accounts; I'm a co-author with significant commits.</sub>
