@@ -24,7 +24,7 @@ currently on Erasmus+ at Universidad Complutense de Madrid, focusing on deep lea
 ### 🔧 Tech
 **Languages:** Python · C · Java · SQL · R · TypeScript<br>
 **ML & Data:** NumPy · pandas · scikit-learn · PyTorch · TensorFlow · Jupyter<br>
-**BI & Tools:** Power BI · Tableau · Git · Next.js
+**BI & Tools:** Power BI · Tableau · Excel · Git · Next.js · Claude Code
 
 ### 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/xavier-teixeira15/) · xavier.teixeira3@gmail.com
