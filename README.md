@@ -17,7 +17,9 @@ currently on Erasmus+ at Universidad Complutense de Madrid, focusing on deep lea
 | [**DisneyPlusDB**](https://github.com/xaviert15/DisneyPlusDB) | Disney+ catalogue database: ER model, ETL into SQLite, analytical SQL queries and a Flask web app. Grade 20/20 | SQL, SQLite, Python, Flask |
 | [**Jungle-Chess**](https://github.com/xaviert15/Jungle-Chess) | Dou Shou Qi board game with Minimax & Negamax AI, MVC architecture. Grade 20/20 | Python, Pygame |
 
-🔒 **Futsal Performance Hub** (private, personal project): a PWA that turns my fitness-band data into daily readiness scores and AI coaching insights · Next.js, TypeScript, Supabase, LLM APIs
+### 🔒 Private personal projects
+- **Futsal Performance Hub**: a PWA that turns my fitness-band data into daily readiness scores and AI coaching insights · Next.js, TypeScript, Supabase, LLM APIs
+- **Resell Dashboard**: full-stack app to run a limited-edition product resale business I co-own with a partner: inventory lifecycle, release (drop) tracking with success rates, fixed costs and capital, profit/ROI KPIs, with per-partner data privacy · Next.js, TypeScript, PostgreSQL, Prisma, Auth.js
 
 ### 🔧 Tech
 **Languages:** Python · C · Java · SQL · R · TypeScript<br>
