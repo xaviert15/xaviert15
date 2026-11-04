@@ -1,6 +1,6 @@
 # Hi, I'm Xavier
 
-Final-year **Artificial Intelligence & Data Science** student at the University of Porto (FCUP) · GPA 17.7/20,
+Final-year **Artificial Intelligence & Data Science** student at the University of Porto (FCUP/FEUP) · GPA 17.7/20,
 currently on Erasmus+ at Universidad Complutense de Madrid, focusing on deep learning.
 
 **Looking for a curricular ML internship (spring 2027)**: building and evaluating models on large-scale, real-world data.
